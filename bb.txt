@@ -1,0 +1,12 @@
+hello gitcommend!!!
+maneuver_search_parameter:
+        state_generation_param:
+          lane_change_sample_speeds_mps: [0.5, 2.0]
+          allow_lane_change_inside_junction: true
+          boundary_tolarance_m: 0.2  # tangshan road width is less then vehicle width, thus need more tolerance
+    intersection_decider_param:
+      enable: true
+      state_machine_parameter:
+        must_pass_distance_m: 5.0
+      trailer_extend_into_junction_t
+
