@@ -1,1 +1,12 @@
 kjaskdhka
+planning_q:
+  limitation_area:
+    - description: {alignment_heading: 2.298334}
+      id: 1
+      type: kAlignmentArea
+      vertices:
+        - [176.923065, 549.9687]
+        - [159.546417, 535.2792]
+        - [368.463562, 300.622528]
+        - [384.877472, 316.8865]
+        
